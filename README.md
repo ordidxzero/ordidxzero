@@ -1,6 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=timeGradient&amp;height=275&amp;text=Yu%20Jun%20Heo&amp;fontSize=70&amp;fontAlign=75" />
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fordidxzero%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<p align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fordidxzero%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</p>
 
 <h2 align="center">🛠 Tech Stack </h2>
 
@@ -67,11 +69,15 @@
 
 <br />
 <br />
-<h2 align="center">👇 Me</h2>
+<h2 align="center">📝 Blog</h2>
 <p align="center">
-  <a href="https://velog.io/@ordidxzero">
-    <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
-  </a>
+  <img src="https://velog-readme-stats.vercel.app/api?name=ordidxzero" />
+</p>
+
+<br />
+<br />
+<h2 align="center">☎️ Contact</h2>
+<p align="center">
   <a href="mailto:dev@dlwlrma.net">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
