@@ -52,7 +52,7 @@
 <br />
 <h3 align="center">📗 My Blog</h3>
 <p align="center">
-  <a href="https://velog.io/@orididxzero">
+  <a href="https://velog.io/@ordidxzero">
     <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
   </a>
 </p>
