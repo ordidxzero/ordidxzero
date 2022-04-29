@@ -2,9 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=timeGradient&amp;height=275&amp;text=Yu%20Jun%20Heo&amp;fontSize=70&amp;fontAlign=75" />
 
-<p align="center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fordidxzero%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-</p>
 
 <h3 align="center">🛠 Tech Stack </h3>
 
@@ -45,14 +43,25 @@
 <br />
 <h3 align="center">📈 Statistic</h3>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ordidxzero"/>
+  <a href="https://solved.ac/profile/ordidxzero">
+    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=ordidxzero" />
+  </a>
+  <br />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ordidxzero&layout=compact" />
+  <br />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=ordidxzero&count_private=true&show_icons=true&"/>
+  <br />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ordidxzero" />
 </p>
 
 <br />
 <br />
 <h3 align="center">📗 My Blog</h3>
 <p align="center">
-  <a href="https://velog.io/@ordidxzero">
+  <a href="https://velog.io/@orididxzero">
     <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
   </a>
 </p>
