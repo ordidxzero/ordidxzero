@@ -70,7 +70,7 @@
   <a href="https://velog.io/@ordidxzero">
     <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
   </a>
-  <a href="mailto:contact@dlwlrma.net">
+  <a href="mailto:dev@dlwlrma.net">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
 </p>
