@@ -1,12 +1,10 @@
-### Hi there 👋
-
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=timeGradient&amp;height=275&amp;text=Yu%20Jun%20Heo&amp;fontSize=70&amp;fontAlign=75" />
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fordidxzero%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
-<h3 align="center">🛠 Tech Stack </h3>
+<h2 align="center">🛠 Tech Stack </h2>
 
-<h4 align="center">🚀&nbsp; Techs that I've used mainly</h4>
+<h3 align="center">🚀&nbsp; Techs that I've used mainly</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -23,7 +21,7 @@
 </p>
 
 <br />
-<h4 align="center">📌&nbsp; Techs that I've used at least once</h4>
+<h3 align="center">📌&nbsp; Techs that I've used at least once</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
@@ -37,11 +35,12 @@
   <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
   <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 </p>
 
 <br />
 <br />
-<h3 align="center">📈 Statistic</h3>
+<h2 align="center">📈 Statistic</h2>
 <p align="center">
   <a href="https://solved.ac/profile/ordidxzero">
     <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=ordidxzero" />
@@ -59,9 +58,12 @@
 
 <br />
 <br />
-<h3 align="center">📗 My Blog</h3>
+<h2 align="center">👇 Me</h2>
 <p align="center">
   <a href="https://velog.io/@orididxzero">
     <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
+  </a>
+  <a href="mailto:contact@dlwlrma.net">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
 </p>
